@@ -1,4 +1,4 @@
-package WhileLessons;
+/*package WhileLessons;
 
 public class SetGet {
     public static void main(String[] args) {
@@ -20,8 +20,8 @@ class Person5 {
 
         } else {
             name = username;
-        }
-        public String getName(){
+
+       public String getName(){
             return name;
         }
 
@@ -36,4 +36,4 @@ class Person5 {
 
 }
 
-
+*/
